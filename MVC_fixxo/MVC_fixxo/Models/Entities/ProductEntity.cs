@@ -2,6 +2,10 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
+
+
+
+///SRP och OCP principer productEntity har ett ansvarsområde och är låsta på det området, får utöka med andra klasser och funktioner vid behov. 
 namespace MVC_fixxo.Models.Entities
 {
     public class ProductEntity

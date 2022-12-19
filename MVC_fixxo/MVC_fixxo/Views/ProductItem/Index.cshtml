@@ -1,40 +1,14 @@
 ﻿@model MVC_fixxo.Models.Entities.ProductEntity
 @*
     ProductItem View
+    SOLID- principerna som går att tillämpa är att gränsnitten eller delarna är många och enkla och de kan utökas med fler partial men i sin funktion och grund
+    fungerar de som de ska. 
 *@
 @{
     ViewData["Title"] = Model.Name;
 }
+
+
 <partial name="_HeaderPartial" />
-<div id="product">
-    <div class="product-container">
-        <div class="img-placeholders">
-            <div class="img-big-placeholder">
-                <img class="img" src="~/@Model.Image1" alt="" />
-            </div>
-            <div class="img-smaller-placeholders">
-                <div class="small-placeholder"><img src="~/@Model.Image1" alt="" /></div>
-                <div class="small-placeholder"><img src="~/@Model.Image2" alt="" /></div>
-                <div class="small-placeholder"><img src="~/@Model.Image3" alt="" /></div>
-            </div>
-        </div>
-        <div class="product-info">
-            <div class="product-name">@Model.Name</div>
-            <div class="product-id">SKU: @Model.ArticleNumber BRAND: The Northland</div>
-            <div class="product-rated"><img src="~/@Model.Rated" alt="" /> </div>
-            <div class="product-price">$@Model.NewPrice .00</div>
-            <div class="product-text">@Model.Description</div>
-            <div class="product-size">Size: @Model.Size</div>
-            <div class="product-color">Color: @Model.Color</div>
-            <div class="product-quantity">
-                Quantity: 1
-                <button class="btn5">ADD TO CHART</button>
-            </div>
-            <div class="social-media">
-                Share:
-                <img src="images/social.svg" alt="">
-            </div>
-        </div>
-    </div>
-</div>
+<partial name="_ProductItemPartial" />
 <partial name="_FooterPartial" />

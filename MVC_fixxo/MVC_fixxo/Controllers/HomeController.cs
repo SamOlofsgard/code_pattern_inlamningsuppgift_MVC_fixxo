@@ -4,6 +4,11 @@ using MVC_fixxo.Context;
 using MVC_fixxo.Models;
 using System.Diagnostics;
 
+
+/// Single responsibility principle (SRP) är att en klass eller kontroll har ett ansvarsområde, här ska den bara hämta en lista med produkter
+
+
+
 namespace MVC_fixxo.Controllers
 {
     public class HomeController : Controller
@@ -24,17 +29,7 @@ namespace MVC_fixxo.Controllers
                          View(await _context.Products.ToListAsync()) :
                          Problem("Entity set 'ApplicationDbContext.Products'  is null.");
 
-        }
-
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
+        }        
+        
     }
 }
