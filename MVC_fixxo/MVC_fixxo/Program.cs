@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using MVC_fixxo.Context;
+using MVC_fixxo.Factories;
+using MVC_fixxo.Handlers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,7 +9,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ApplicationDbContext>(x => x.UseSqlServer(builder.Configuration.GetConnectionString("Sql")));
-
+builder.Services.AddSingleton<IProductFactory, ProductFactory>();
+builder.Services.AddScoped<IProductHandler, ProductHandler>();
 
 var app = builder.Build();
 
