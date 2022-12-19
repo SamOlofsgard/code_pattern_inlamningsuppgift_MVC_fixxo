@@ -1,0 +1,68 @@
+﻿@model IEnumerable<MVC_fixxo.Models.Entities.ProductEntity>
+
+<div id="product-discount">
+    <div class="discount-container1">
+        <div class="discount">
+            <div class="header">2 FOR USD $29</div>
+            <button class="btn2">FLASE SALE</button>
+        </div>
+        <div class="products">
+            @foreach (var item in Model)
+            {
+                <div class="product-container">
+                    <a asp-controller="ProductItem" asp-action="Index" asp-route-id="@item.ArticleNumber" class="img-container">
+                        <img class="product-image" src=@item.Image1 alt="">
+                        <img class="placeholder2" src="images/featured/placeholder2.svg" alt="">
+                        <img class="icons" src="images/featured/icon-extra.svg" alt="">
+                        <button asp-controller="ProductItem" asp-action="Index" asp-route-id="@item.ArticleNumber" class="btn3">QUICK VIEW</button>
+
+                    </a>
+                    <div class="Category">Category Id:@item.CategoryId</div>
+                    <a asp-controller="ProductItem" asp-action="Index" asp-route-id="@item.ArticleNumber" class="product-name">@item.Name</a>
+                    <div class="rated">
+                        <img src=@item.Rated alt="" />
+                    </div>
+                    <div class="Price">
+                        <div class="old-price">$@item.OldPrice</div>
+                        <div class="new-price">$@item.NewPrice</div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+    <div class="discount-container2">
+        <div class="products">
+            @foreach (var item in Model)
+            {
+                <div class="product-container">
+                    <a asp-controller="ProductItem" asp-action="Index" asp-route-id="@item.ArticleNumber" class="img-container">
+                        <img class="product-image" src=@item.Image1 alt="">
+                        <img class="placeholder2" src="images/featured/placeholder2.svg" alt="">
+                        <img class="icons" src="images/featured/icon-extra.svg" alt="">
+                        <button asp-controller="ProductItem" asp-action="Index" asp-route-id="@item.ArticleNumber" class="btn3">QUICK VIEW</button>
+
+                    </a>
+                    <div class="Category">Category Id:@item.CategoryId</div>
+                    <a asp-controller="ProductItem" asp-action="Index" asp-route-id="@item.ArticleNumber" class="product-name">@item.Name</a>
+                    <div class="rated">
+                        <img src=@item.Rated alt="" />
+                    </div>
+                    <div class="Price">
+                        <div class="old-price">$@item.OldPrice</div>
+                        <div class="new-price">$@item.NewPrice</div>
+                    </div>
+                </div>
+            }
+            
+        </div>
+        <div class="discount">
+            <div class="header">2 FOR USD $49</div>
+            <button class="btn2">FLASE SALE</button>
+        </div>
+    </div>
+    <div class="discount-container3">
+        <div class="header">Up to 70% off*</div>
+        <div class="text">Women's, Men's & Kids' Winter Fashion</div>
+        <button class="btn2">FLASE SALE</button>
+    </div>
+</div>

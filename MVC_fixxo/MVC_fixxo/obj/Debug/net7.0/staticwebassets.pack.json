@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MVC_fixxo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MVC_fixxo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\btn-design.svg",
+      "PackagePath": "staticwebassets\\images\\btn-design.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\btn-design2.svg",
+      "PackagePath": "staticwebassets\\images\\btn-design2.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\btn2-design.svg",
+      "PackagePath": "staticwebassets\\images\\btn2-design.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\contact\\contact-map.svg",
+      "PackagePath": "staticwebassets\\images\\contact\\contact-map.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\customer\\icon-delivery.svg",
+      "PackagePath": "staticwebassets\\images\\customer\\icon-delivery.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\customer\\icon-payment.svg",
+      "PackagePath": "staticwebassets\\images\\customer\\icon-payment.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\customer\\icon-reuters.svg",
+      "PackagePath": "staticwebassets\\images\\customer\\icon-reuters.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\customer\\icon-support.svg",
+      "PackagePath": "staticwebassets\\images\\customer\\icon-support.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\featured\\icon-extra.svg",
+      "PackagePath": "staticwebassets\\images\\featured\\icon-extra.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\featured\\placeholder.svg",
+      "PackagePath": "staticwebassets\\images\\featured\\placeholder.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\featured\\placeholder2.svg",
+      "PackagePath": "staticwebassets\\images\\featured\\placeholder2.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\home\\5stars.svg",
+      "PackagePath": "staticwebassets\\images\\home\\5stars.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\home\\icon.svg",
+      "PackagePath": "staticwebassets\\images\\home\\icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\home\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\home\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\product_info\\consius-bg.svg",
+      "PackagePath": "staticwebassets\\images\\product_info\\consius-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\product_info\\top-picks-bg.svg",
+      "PackagePath": "staticwebassets\\images\\product_info\\top-picks-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\products\\5stars.svg",
+      "PackagePath": "staticwebassets\\images\\products\\5stars.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\products\\Icon home.svg",
+      "PackagePath": "staticwebassets\\images\\products\\Icon home.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\products\\blouse.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\blouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\products\\blouse\\blouse1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\blouse\\blouse1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\products\\blouse\\blouse2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\blouse\\blouse2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\products\\blouse\\blouse3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\blouse\\blouse3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\products\\pants\\pants1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\pants\\pants1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\products\\pants\\pants2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\pants\\pants2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\products\\pants\\pants3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\pants\\pants3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\products\\shoes\\shoes1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\shoes\\shoes1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\products\\shoes\\shoes2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\shoes\\shoes2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\products\\shoes\\shoes3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\shoes\\shoes3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\products\\t-shirt\\t-shirt1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\t-shirt\\t-shirt1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\products\\t-shirt\\t-shirt2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\t-shirt\\t-shirt2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\products\\t-shirt\\t-shirt3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\t-shirt\\t-shirt3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\sale\\bg1sale.svg",
+      "PackagePath": "staticwebassets\\images\\sale\\bg1sale.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\sale\\bg2sale.svg",
+      "PackagePath": "staticwebassets\\images\\sale\\bg2sale.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\sale\\img1.svg",
+      "PackagePath": "staticwebassets\\images\\sale\\img1.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\sale\\img2.svg",
+      "PackagePath": "staticwebassets\\images\\sale\\img2.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\images\\social.svg",
+      "PackagePath": "staticwebassets\\images\\social.svg"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sam\\Documents\\Code_Pattern\\inlamningsuppgift\\MVC_fixxo\\MVC_fixxo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MVC_fixxo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MVC_fixxo.props",
+      "PackagePath": "build\\MVC_fixxo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MVC_fixxo.props",
+      "PackagePath": "buildMultiTargeting\\MVC_fixxo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MVC_fixxo.props",
+      "PackagePath": "buildTransitive\\MVC_fixxo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
